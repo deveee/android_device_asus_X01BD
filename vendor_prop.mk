@@ -152,6 +152,7 @@ PRODUCT_PROPERTY_OVERRIDES += \
     vidc.enc.dcvs.extra-buff-count=2 \
     vidc.enc.target_support_bframe=1 \
     ro.config.media_vol_steps=25
+    ro.config.alarm_vol_steps=25
 
 # Memory optimizations
 PRODUCT_PROPERTY_OVERRIDES += \
